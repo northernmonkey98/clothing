@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+	<TattooShopItems>
+		<Item>
+			<id value="10000"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_000</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_000</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10001"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_000_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_000_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10002"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_001</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_001</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10003"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_001_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_001_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10004"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_002</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_002</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10005"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_002_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_002_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10006"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_003</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_003</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10007"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_003_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_003_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10008"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_004</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_004</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10009"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_004_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_004_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10010"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_005</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_005</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10011"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_005_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_005_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10012"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_006</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_006</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10013"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_006_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_006_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10014"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_007</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_007</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10015"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_007_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_007_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10016"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_008</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_008</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10017"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_008_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_008_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10018"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_009</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_009</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10019"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_009_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_009_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10020"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_010</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_010</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10021"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_010_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_010_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10022"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_011</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_011</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10023"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_011_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_011_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10024"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_012</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_012</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10025"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_012_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_012_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10026"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_013</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_013</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10027"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_013_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_013_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10028"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_014</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_014</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10029"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_014_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_014_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10030"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_015</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_015</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10031"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_015_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_015_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10032"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_016</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_016</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="10033"/>
+			<cost value="50"/>
+			<textLabel>mp_forge_hair_016_b</textLabel>
+			<collection>fs_hairoverlay</collection>
+			<preset>mp_forge_hair_016_b</preset>
+			<zone>PDZ_TORSO</zone>
+			<updateGroup>torsoDecal</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+	        <lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+	</TattooShopItems>
+</TattooShopItemArray>

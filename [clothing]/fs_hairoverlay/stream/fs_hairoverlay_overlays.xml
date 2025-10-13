@@ -1,0 +1,588 @@
+<!-- ForgeStudios Hair Overlay Pack -->
+<?xml version="1.0" encoding="UTF-8"?>
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+    <!--mp_forge_hair_000-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_000</nameHash>
+      <txdHash>mp_forge_hair_000</txdHash>
+      <txtHash>mp_forge_hair_000</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_000_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_000_b</nameHash>
+      <txdHash>mp_forge_hair_000_b</txdHash>
+      <txtHash>mp_forge_hair_000_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_001-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_001</nameHash>
+      <txdHash>mp_forge_hair_001</txdHash>
+      <txtHash>mp_forge_hair_001</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_001_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_001_b</nameHash>
+      <txdHash>mp_forge_hair_001_b</txdHash>
+      <txtHash>mp_forge_hair_001_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_002-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_002</nameHash>
+      <txdHash>mp_forge_hair_002</txdHash>
+      <txtHash>mp_forge_hair_002</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_002_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_002_b</nameHash>
+      <txdHash>mp_forge_hair_002_b</txdHash>
+      <txtHash>mp_forge_hair_002_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_003-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_003</nameHash>
+      <txdHash>mp_forge_hair_003</txdHash>
+      <txtHash>mp_forge_hair_003</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_003_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_003_b</nameHash>
+      <txdHash>mp_forge_hair_003_b</txdHash>
+      <txtHash>mp_forge_hair_003_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_004-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_004</nameHash>
+      <txdHash>mp_forge_hair_004</txdHash>
+      <txtHash>mp_forge_hair_004</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_004_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_004_b</nameHash>
+      <txdHash>mp_forge_hair_004_b</txdHash>
+      <txtHash>mp_forge_hair_004_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_005-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_005</nameHash>
+      <txdHash>mp_forge_hair_005</txdHash>
+      <txtHash>mp_forge_hair_005</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_005_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_005_b</nameHash>
+      <txdHash>mp_forge_hair_005_b</txdHash>
+      <txtHash>mp_forge_hair_005_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_006-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_006</nameHash>
+      <txdHash>mp_forge_hair_006</txdHash>
+      <txtHash>mp_forge_hair_006</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_006_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_006_b</nameHash>
+      <txdHash>mp_forge_hair_006_b</txdHash>
+      <txtHash>mp_forge_hair_006_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_007-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_007</nameHash>
+      <txdHash>mp_forge_hair_007</txdHash>
+      <txtHash>mp_forge_hair_007</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_007_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_007_b</nameHash>
+      <txdHash>mp_forge_hair_007_b</txdHash>
+      <txtHash>mp_forge_hair_007_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_008-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_008</nameHash>
+      <txdHash>mp_forge_hair_008</txdHash>
+      <txtHash>mp_forge_hair_008</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_008_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_008_b</nameHash>
+      <txdHash>mp_forge_hair_008_b</txdHash>
+      <txtHash>mp_forge_hair_008_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_009-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_009</nameHash>
+      <txdHash>mp_forge_hair_009</txdHash>
+      <txtHash>mp_forge_hair_009</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_009_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_009_b</nameHash>
+      <txdHash>mp_forge_hair_009_b</txdHash>
+      <txtHash>mp_forge_hair_009_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_010-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_010</nameHash>
+      <txdHash>mp_forge_hair_010</txdHash>
+      <txtHash>mp_forge_hair_010</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_010_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_010_b</nameHash>
+      <txdHash>mp_forge_hair_010_b</txdHash>
+      <txtHash>mp_forge_hair_010_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_011-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_011</nameHash>
+      <txdHash>mp_forge_hair_011</txdHash>
+      <txtHash>mp_forge_hair_011</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_011_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_011_b</nameHash>
+      <txdHash>mp_forge_hair_011_b</txdHash>
+      <txtHash>mp_forge_hair_011_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_012-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_012</nameHash>
+      <txdHash>mp_forge_hair_012</txdHash>
+      <txtHash>mp_forge_hair_012</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_012_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_012_b</nameHash>
+      <txdHash>mp_forge_hair_012_b</txdHash>
+      <txtHash>mp_forge_hair_012_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_013-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_013</nameHash>
+      <txdHash>mp_forge_hair_013</txdHash>
+      <txtHash>mp_forge_hair_013</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_013_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_013_b</nameHash>
+      <txdHash>mp_forge_hair_013_b</txdHash>
+      <txtHash>mp_forge_hair_013_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_014-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_014</nameHash>
+      <txdHash>mp_forge_hair_014</txdHash>
+      <txtHash>mp_forge_hair_014</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_014_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_014_b</nameHash>
+      <txdHash>mp_forge_hair_014_b</txdHash>
+      <txtHash>mp_forge_hair_014_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_015-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_015</nameHash>
+      <txdHash>mp_forge_hair_015</txdHash>
+      <txtHash>mp_forge_hair_015</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_015_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_015_b</nameHash>
+      <txdHash>mp_forge_hair_015_b</txdHash>
+      <txtHash>mp_forge_hair_015_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+    <!--mp_forge_hair_016-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_016</nameHash>
+      <txdHash>mp_forge_hair_016</txdHash>
+      <txtHash>mp_forge_hair_016</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <!--mp_forge_hair_016_b-->
+    <Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.600000" y="0.500000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_forge_hair_016_b</nameHash>
+      <txdHash>mp_forge_hair_016_b</txdHash>
+      <txtHash>mp_forge_hair_016_b</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+      <usesTintColor value="true" />
+    </Item>
+  </presets>
+  <nameHash>fs_hairoverlay_overlays</nameHash>
+   <medalLocations content="vector2_array">
+    0.140000	0.070000
+    0.370000	0.070000
+    0.600000	0.070000
+    0.835000	0.070000
+    0.140000	0.150000
+    0.370000	0.150000
+    0.600000	0.150000
+    0.835000	0.150000
+    0.140000	0.230000
+    0.370000	0.230000
+    0.600000	0.230000
+    0.835000	0.230000
+    0.100000	0.700000
+    0.300000	0.700000
+    0.500000	0.700000
+    0.700000	0.700000
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

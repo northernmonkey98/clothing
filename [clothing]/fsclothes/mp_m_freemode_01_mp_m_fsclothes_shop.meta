@@ -1,0 +1,5849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+	<pedName>mp_m_freemode_01</pedName>
+	<dlcName>mp_m_fsclothes</dlcName>
+	<fullDlcName>mp_m_freemode_01_mp_m_fsclothes</fullDlcName>
+	<eCharacter>SCR_CHAR_MULTIPLAYER</eCharacter>
+	<creatureMetaData>MP_CreatureMetadata_fsclothes</creatureMetaData>
+	<pedOutfits>
+	</pedOutfits>
+	<pedComponents>
+        <!-- Accessories: Chain 001 fat cuban - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 001 fat cuban - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 001 fat cuban - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_0_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 002 thin 2x cuban - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 002 thin 2x cuban - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 002 thin 2x cuban - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_1_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 003 small wire - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 003 small wire - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 003 small wire - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 004 fat cube - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_3_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 004 fat cube - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_3_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 004 fat cube - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_3_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 005 IO cuban choker - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_4_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 005 IO cuban choker - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_4_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 005 IO cuban choker - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_4_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 006 IO cuban chain - gold iced -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_5_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="5" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 006 IO cuban chain - silver iced -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_5_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="5" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 006 IO cuban chain - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_5_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="5" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 006 IO cuban chain - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_5_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="5" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - gold color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - gold diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - gold2 color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - gold2 diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - whitegold color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - whitegold diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - rosegold color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - rosegold diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - rosegold2 color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - rosegold2 diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - silver color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - silver diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - bronze color -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 007 Arcane Chain x Christopher067 - bronze diamond -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_6_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 008 Debut Chain x Christopher067 - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_7_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 008 Debut Chain x Christopher067 - whitegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_7_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 008 Debut Chain x Christopher067 - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_7_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Chain 008 Debut Chain x Christopher067 - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_7_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Body: Torso Timeless Shirt - torso -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BODY_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_UPPR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Body: Torso Cotton Shirt - torso -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BODY_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_UPPR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Body: Torso ripped 92 shirt - torso -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BODY_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_UPPR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: Hair 001 - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: Hair 001 - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: Hair 002 - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: Hair 002 - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: 003 Hair - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: 003 Hair - blonde -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: 003 Hair - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Hair: 003 Hair - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_HAIR_2_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_HAIR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - navyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - khaki -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - turqiouse -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - checkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - checkbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - checkgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - checkwhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - tilegray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - tilekhaki -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - dotwhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - Flowersblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - stripebluewhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 001 Pleated Cotton - stripebluewhite2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_0_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - grey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - lightgrey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - chocobrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - cream -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - frostwhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - icewhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - lightcream -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - pastelgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - softblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 002 Timeless Suit Pants - washedblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_1_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - black_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - blue_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - darkblue_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - darkgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - darkgreen_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - green_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - khaki -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - khaki_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - lightgrey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - lightgrey_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - orange_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - purple_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - red_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - white_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_22_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="22" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 003 Sport Shorts - yellow_heat -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_2_23_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="23" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - mudgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - pastelgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - onyx -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - streetgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - choco -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - lightdewyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - lightblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - orchid -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - hawaiiflower -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - monstera -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - palmswhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - palmsblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - artflowerblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - paisleyyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - bigpaisleygreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 004 Wave Shorts - flower -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_3_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Mask: DUMMY - DUMMY -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_MASK_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_BERD</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - hotyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - hotpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - pink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - briblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - brigreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - bybblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 001 Ruber Boots - orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_0_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - brown2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - brown3 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - brown4 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: 002 Chelsea Boot - brown5 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_1_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - blush -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - darkgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - grey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - pink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - teal -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Shoes: PRE Jordana Sneaker - yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_SHOES_2_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_FEET</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: DUMMY - DUMMY -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - lightblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - chocobrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - cream -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - cream2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - cream3 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - darkgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - greenish -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - softblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - lightrose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - pink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - hotred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - winrered -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - sand -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_22_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="22" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 001 Timeless Shirt - yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_1_23_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="1" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="23" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - brownlight -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - grey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - greydark -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - khaki -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - lavender -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - pink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - redbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 002 Tshirt - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_2_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="2" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - chocobrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - cream -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - darkteal -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - diamondblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - frostwhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - icyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - lightrose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - mossgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - navyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - pastelgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - seablue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - turqiouse -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - washedblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 003 Cotton Shirt - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_3_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="3" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - mudgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - pastelgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - onyx -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - streetgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - choco -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - lightdewyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - lightblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - orchid -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - hawaiiflower -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - monstera -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - palmswhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - palmsblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - artflowerblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - paisleyyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - bigpaisleymint -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: Top 004 Wave Shirt - lightmagenta -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_4_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="4" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+	</pedComponents>
+	<pedProps>
+        <!-- PropEars: Earring 001 Xmas Tree (OFF) - p_ears_diff_000_a.ytd -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="0" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 001 Xmas Tree (ON) - p_ears_diff_001_a.ytd -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="1" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_candy -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - gold_rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_candy -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - rosegold_rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_candy -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 002 Giada x Christopher067 - silver_rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_2_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 003 Debut x Christopher067 - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_3_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="3" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 003 Debut x Christopher067 - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_3_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="3" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 003 Debut x Christopher067 - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_3_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="3" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - whitegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - gold2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - bronzegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 004 Ritual x Christopher067 - steel -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_4_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="4" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - lightorange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - dewyellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - lightgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - turqiose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - pastelgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - lightblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - pastelblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - lavender -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - darkrose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - peach -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: Earring 005 Delicate x Christopher067 - lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_5_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="5" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Nose) - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="0" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Nose) - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="0" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Nose) - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_0_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="0" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Eyes) - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_1_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="1" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Eyes) - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_1_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="1" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Eyes) - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_1_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="1" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Head) - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_2_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Head) - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_2_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEyes: Glasses 001 Retro Ovals (Head) - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEYES_2_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="2" />
+			<eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+	</pedProps>
+</ShopPedApparel>
