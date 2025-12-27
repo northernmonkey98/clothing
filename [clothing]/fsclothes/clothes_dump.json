@@ -1445,6 +1445,479 @@
         "IsDummyPlaceholder": false
       },
       {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_LEGS_4_0_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "camopattern",
+        "NameHash": "CLO_DCT_LEGS_4_1_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "creme",
+        "NameHash": "CLO_DCT_LEGS_4_2_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "darkblue",
+        "NameHash": "CLO_DCT_LEGS_4_3_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "darkgreen",
+        "NameHash": "CLO_DCT_LEGS_4_4_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "darkgrey",
+        "NameHash": "CLO_DCT_LEGS_4_5_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_LEGS_4_6_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "grey",
+        "NameHash": "CLO_DCT_LEGS_4_7_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "khaki",
+        "NameHash": "CLO_DCT_LEGS_4_8_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_LEGS_4_9_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "lightbrown",
+        "NameHash": "CLO_DCT_LEGS_4_10_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "lightgreen",
+        "NameHash": "CLO_DCT_LEGS_4_11_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 005 Mil Pants",
+        "TextureName": "mint",
+        "NameHash": "CLO_DCT_LEGS_4_12_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 226,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Grey",
+        "NameHash": "CLO_DCT_LEGS_5_0_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Turqoise",
+        "NameHash": "CLO_DCT_LEGS_5_1_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Olive",
+        "NameHash": "CLO_DCT_LEGS_5_2_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Brown",
+        "NameHash": "CLO_DCT_LEGS_5_3_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Black",
+        "NameHash": "CLO_DCT_LEGS_5_4_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_LEGS_5_5_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Dark Blue",
+        "NameHash": "CLO_DCT_LEGS_5_6_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "White",
+        "NameHash": "CLO_DCT_LEGS_5_7_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Pistacio",
+        "NameHash": "CLO_DCT_LEGS_5_8_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Red",
+        "NameHash": "CLO_DCT_LEGS_5_9_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Pink",
+        "NameHash": "CLO_DCT_LEGS_5_10_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Ocher",
+        "NameHash": "CLO_DCT_LEGS_5_11_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Blue Green",
+        "NameHash": "CLO_DCT_LEGS_5_12_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Beige",
+        "NameHash": "CLO_DCT_LEGS_5_13_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 006 Tight Jeans with belt",
+        "TextureName": "Purple",
+        "NameHash": "CLO_DCT_LEGS_5_14_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 227,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": " beige pattern",
+        "NameHash": "CLO_DCT_LEGS_6_0_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "bright orange",
+        "NameHash": "CLO_DCT_LEGS_6_1_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "mustard yellow",
+        "NameHash": "CLO_DCT_LEGS_6_2_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "light grey",
+        "NameHash": "CLO_DCT_LEGS_6_3_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "sand",
+        "NameHash": "CLO_DCT_LEGS_6_4_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "light peach",
+        "NameHash": "CLO_DCT_LEGS_6_5_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "stonegrey",
+        "NameHash": "CLO_DCT_LEGS_6_6_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "pumpkin",
+        "NameHash": "CLO_DCT_LEGS_6_7_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "solomon",
+        "NameHash": "CLO_DCT_LEGS_6_8_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "light blue",
+        "NameHash": "CLO_DCT_LEGS_6_9_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "lilac",
+        "NameHash": "CLO_DCT_LEGS_6_10_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "light green",
+        "NameHash": "CLO_DCT_LEGS_6_11_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_LEGS_6_12_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "light pink",
+        "NameHash": "CLO_DCT_LEGS_6_13_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Cropped Pants",
+        "TextureName": "black pattern",
+        "NameHash": "CLO_DCT_LEGS_6_14_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 228,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
         "DrawableName": "DUMMY",
         "TextureName": "DUMMY",
         "NameHash": "CLO_DCT_MASK_0_0_M",
@@ -1676,7 +2149,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "black",
         "NameHash": "CLO_DCT_SHOES_2_0_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1687,7 +2160,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "blue",
         "NameHash": "CLO_DCT_SHOES_2_1_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1698,7 +2171,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "blush",
         "NameHash": "CLO_DCT_SHOES_2_2_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1709,7 +2182,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "brown",
         "NameHash": "CLO_DCT_SHOES_2_3_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1720,7 +2193,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "darkblue",
         "NameHash": "CLO_DCT_SHOES_2_4_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1731,7 +2204,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "darkgreen",
         "NameHash": "CLO_DCT_SHOES_2_5_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1742,7 +2215,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "green",
         "NameHash": "CLO_DCT_SHOES_2_6_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1753,7 +2226,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "grey",
         "NameHash": "CLO_DCT_SHOES_2_7_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1764,7 +2237,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "orange",
         "NameHash": "CLO_DCT_SHOES_2_8_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1775,7 +2248,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "pink",
         "NameHash": "CLO_DCT_SHOES_2_9_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1786,7 +2259,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "purple",
         "NameHash": "CLO_DCT_SHOES_2_10_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1797,7 +2270,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "red",
         "NameHash": "CLO_DCT_SHOES_2_11_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1808,7 +2281,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "teal",
         "NameHash": "CLO_DCT_SHOES_2_12_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1819,7 +2292,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Jordana Sneaker",
+        "DrawableName": "PRE 003 Jordana Sneaker",
         "TextureName": "yellow",
         "NameHash": "CLO_DCT_SHOES_2_13_M",
         "ComponentType": "PV_COMP_FEET",
@@ -1827,6 +2300,424 @@
         "DrawableId": 162,
         "TextureId": 13,
         "RelativeCollectionDrawableId": 2,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Hazelnut",
+        "NameHash": "CLO_DCT_SHOES_3_0_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Tan",
+        "NameHash": "CLO_DCT_SHOES_3_1_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Golden Yellow",
+        "NameHash": "CLO_DCT_SHOES_3_2_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Blue",
+        "NameHash": "CLO_DCT_SHOES_3_3_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Reddish Brown",
+        "NameHash": "CLO_DCT_SHOES_3_4_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Purple",
+        "NameHash": "CLO_DCT_SHOES_3_5_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Bronze",
+        "NameHash": "CLO_DCT_SHOES_3_6_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Almond",
+        "NameHash": "CLO_DCT_SHOES_3_7_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Leatherboots with white Soles",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_SHOES_3_8_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 163,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "White",
+        "NameHash": "CLO_DCT_SHOES_4_0_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Pumpkin",
+        "NameHash": "CLO_DCT_SHOES_4_1_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Brown",
+        "NameHash": "CLO_DCT_SHOES_4_2_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Ochre",
+        "NameHash": "CLO_DCT_SHOES_4_3_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Purple",
+        "NameHash": "CLO_DCT_SHOES_4_4_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Amber",
+        "NameHash": "CLO_DCT_SHOES_4_5_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Grey",
+        "NameHash": "CLO_DCT_SHOES_4_6_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_SHOES_4_7_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Black",
+        "NameHash": "CLO_DCT_SHOES_4_8_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chukka Boots",
+        "TextureName": "Blue",
+        "NameHash": "CLO_DCT_SHOES_4_9_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 164,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Amber",
+        "NameHash": "CLO_DCT_SHOES_5_0_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Blue",
+        "NameHash": "CLO_DCT_SHOES_5_1_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Pumpkin",
+        "NameHash": "CLO_DCT_SHOES_5_2_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Magenta",
+        "NameHash": "CLO_DCT_SHOES_5_3_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "White",
+        "NameHash": "CLO_DCT_SHOES_5_4_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Red",
+        "NameHash": "CLO_DCT_SHOES_5_5_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_SHOES_5_6_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Black",
+        "NameHash": "CLO_DCT_SHOES_5_7_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Brown",
+        "NameHash": "CLO_DCT_SHOES_5_8_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Monkstraps",
+        "TextureName": "Mauve",
+        "NameHash": "CLO_DCT_SHOES_5_9_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 165,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Ochre",
+        "NameHash": "CLO_DCT_SHOES_6_0_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Grey",
+        "NameHash": "CLO_DCT_SHOES_6_1_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Black",
+        "NameHash": "CLO_DCT_SHOES_6_2_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Blue",
+        "NameHash": "CLO_DCT_SHOES_6_3_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_SHOES_6_4_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "light Brown",
+        "NameHash": "CLO_DCT_SHOES_6_5_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Pumpkin",
+        "NameHash": "CLO_DCT_SHOES_6_6_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Beige",
+        "NameHash": "CLO_DCT_SHOES_6_7_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Chelsea Boots ",
+        "TextureName": "Brown",
+        "NameHash": "CLO_DCT_SHOES_6_8_M",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 166,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 6,
         "IsDummyPlaceholder": false
       },
       {
@@ -2674,6 +3565,666 @@
         "DrawableId": 593,
         "TextureId": 21,
         "RelativeCollectionDrawableId": 4,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_TOP_5_0_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "darkblack",
+        "NameHash": "CLO_DCT_TOP_5_1_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "gray",
+        "NameHash": "CLO_DCT_TOP_5_2_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_TOP_5_3_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_TOP_5_4_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "bleachedbeige",
+        "NameHash": "CLO_DCT_TOP_5_5_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_TOP_5_6_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_TOP_5_7_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "brownwhashed",
+        "NameHash": "CLO_DCT_TOP_5_8_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "charcoal",
+        "NameHash": "CLO_DCT_TOP_5_9_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "darkchoco",
+        "NameHash": "CLO_DCT_TOP_5_10_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "jadegreen",
+        "NameHash": "CLO_DCT_TOP_5_11_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_TOP_5_12_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_TOP_5_13_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_TOP_5_14_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_TOP_5_15_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "resin",
+        "NameHash": "CLO_DCT_TOP_5_16_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "rosewood",
+        "NameHash": "CLO_DCT_TOP_5_17_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "teal",
+        "NameHash": "CLO_DCT_TOP_5_18_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 18,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "washedlavender",
+        "NameHash": "CLO_DCT_TOP_5_19_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 19,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "lfet",
+        "NameHash": "CLO_DCT_TOP_5_20_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 20,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 005 Ripped 92 Shirt",
+        "TextureName": "milf",
+        "NameHash": "CLO_DCT_TOP_5_21_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 594,
+        "TextureId": 21,
+        "RelativeCollectionDrawableId": 5,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "allblack",
+        "NameHash": "CLO_DCT_TOP_6_0_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "allwhite",
+        "NameHash": "CLO_DCT_TOP_6_1_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "darkgreen",
+        "NameHash": "CLO_DCT_TOP_6_2_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "darkviolet",
+        "NameHash": "CLO_DCT_TOP_6_3_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "gray",
+        "NameHash": "CLO_DCT_TOP_6_4_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "iceblue",
+        "NameHash": "CLO_DCT_TOP_6_5_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "ivory",
+        "NameHash": "CLO_DCT_TOP_6_6_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_TOP_6_7_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "lightbrown",
+        "NameHash": "CLO_DCT_TOP_6_8_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "mossgreen",
+        "NameHash": "CLO_DCT_TOP_6_9_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "navy",
+        "NameHash": "CLO_DCT_TOP_6_10_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "plum",
+        "NameHash": "CLO_DCT_TOP_6_11_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_TOP_6_12_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "Top 006 Layered 66 sweater",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_TOP_6_13_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 595,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 6,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Green/Black",
+        "NameHash": "CLO_DCT_TOP_7_0_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Green/Grey",
+        "NameHash": "CLO_DCT_TOP_7_1_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Green/White",
+        "NameHash": "CLO_DCT_TOP_7_2_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Red/White",
+        "NameHash": "CLO_DCT_TOP_7_3_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Red/Black",
+        "NameHash": "CLO_DCT_TOP_7_4_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Red",
+        "NameHash": "CLO_DCT_TOP_7_5_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Grey",
+        "NameHash": "CLO_DCT_TOP_7_6_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Grey/white",
+        "NameHash": "CLO_DCT_TOP_7_7_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Blue/White",
+        "NameHash": "CLO_DCT_TOP_7_8_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 007 Pufferwest with Shirt",
+        "TextureName": "Blue/Grey",
+        "NameHash": "CLO_DCT_TOP_7_9_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 596,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 7,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_TOP_8_0_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "darkblack",
+        "NameHash": "CLO_DCT_TOP_8_1_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "babyblue",
+        "NameHash": "CLO_DCT_TOP_8_2_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_TOP_8_3_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "blackwhite",
+        "NameHash": "CLO_DCT_TOP_8_4_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "bronce",
+        "NameHash": "CLO_DCT_TOP_8_5_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_TOP_8_6_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "cremewhite",
+        "NameHash": "CLO_DCT_TOP_8_7_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "darkgreen",
+        "NameHash": "CLO_DCT_TOP_8_8_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "gray",
+        "NameHash": "CLO_DCT_TOP_8_9_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "offwhite",
+        "NameHash": "CLO_DCT_TOP_8_10_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_TOP_8_11_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "rosered",
+        "NameHash": "CLO_DCT_TOP_8_12_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 8,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 008 Timeless Coat w/ physics",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_TOP_8_13_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 597,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 8,
         "IsDummyPlaceholder": false
       }
     ],
@@ -7734,7 +9285,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "black",
         "NameHash": "CLO_DCT_LEGS_19_0_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7745,7 +9296,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "blue",
         "NameHash": "CLO_DCT_LEGS_19_1_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7756,7 +9307,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "brownred",
         "NameHash": "CLO_DCT_LEGS_19_2_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7767,7 +9318,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "darkblue",
         "NameHash": "CLO_DCT_LEGS_19_3_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7778,7 +9329,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "darkteal",
         "NameHash": "CLO_DCT_LEGS_19_4_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7789,7 +9340,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "green",
         "NameHash": "CLO_DCT_LEGS_19_5_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7800,7 +9351,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "grey",
         "NameHash": "CLO_DCT_LEGS_19_6_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7811,7 +9362,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "khaki",
         "NameHash": "CLO_DCT_LEGS_19_7_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7822,7 +9373,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "lightblue",
         "NameHash": "CLO_DCT_LEGS_19_8_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7833,7 +9384,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "lightgrey",
         "NameHash": "CLO_DCT_LEGS_19_9_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7844,7 +9395,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "orange",
         "NameHash": "CLO_DCT_LEGS_19_10_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7855,7 +9406,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "pink",
         "NameHash": "CLO_DCT_LEGS_19_11_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7866,7 +9417,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "plum",
         "NameHash": "CLO_DCT_LEGS_19_12_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7877,7 +9428,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "purple",
         "NameHash": "CLO_DCT_LEGS_19_13_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7888,7 +9439,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "red",
         "NameHash": "CLO_DCT_LEGS_19_14_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7899,7 +9450,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "white",
         "NameHash": "CLO_DCT_LEGS_19_15_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7910,7 +9461,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 018 Short Sportshorts",
+        "DrawableName": "018 Short Sportshorts",
         "TextureName": "yellow",
         "NameHash": "CLO_DCT_LEGS_19_16_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7921,7 +9472,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "beige",
         "NameHash": "CLO_DCT_LEGS_20_0_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7932,7 +9483,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "black",
         "NameHash": "CLO_DCT_LEGS_20_1_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7943,7 +9494,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "blue",
         "NameHash": "CLO_DCT_LEGS_20_2_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7954,7 +9505,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "buttercream",
         "NameHash": "CLO_DCT_LEGS_20_3_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7965,7 +9516,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dark blue purple",
         "NameHash": "CLO_DCT_LEGS_20_4_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7976,7 +9527,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dark grey",
         "NameHash": "CLO_DCT_LEGS_20_5_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7987,7 +9538,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dark orange",
         "NameHash": "CLO_DCT_LEGS_20_6_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -7998,7 +9549,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dark red",
         "NameHash": "CLO_DCT_LEGS_20_7_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8009,7 +9560,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dusty green",
         "NameHash": "CLO_DCT_LEGS_20_8_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8020,7 +9571,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "dusty rose",
         "NameHash": "CLO_DCT_LEGS_20_9_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8031,7 +9582,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "light blue",
         "NameHash": "CLO_DCT_LEGS_20_10_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8042,7 +9593,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "light grey",
         "NameHash": "CLO_DCT_LEGS_20_11_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8053,7 +9604,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "Neon Mint",
         "NameHash": "CLO_DCT_LEGS_20_12_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8064,7 +9615,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "orange",
         "NameHash": "CLO_DCT_LEGS_20_13_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8075,7 +9626,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "pastel green",
         "NameHash": "CLO_DCT_LEGS_20_14_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8086,7 +9637,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "pastel purple",
         "NameHash": "CLO_DCT_LEGS_20_15_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8097,7 +9648,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "peach",
         "NameHash": "CLO_DCT_LEGS_20_16_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8108,7 +9659,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "rosa",
         "NameHash": "CLO_DCT_LEGS_20_17_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8119,7 +9670,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "teal",
         "NameHash": "CLO_DCT_LEGS_20_18_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8130,7 +9681,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "white",
         "NameHash": "CLO_DCT_LEGS_20_19_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8141,7 +9692,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 019 Ruffled Skirt with Legwarmer",
+        "DrawableName": "019 Ruffled Skirt with Legwarmer",
         "TextureName": "yellow",
         "NameHash": "CLO_DCT_LEGS_20_20_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8152,7 +9703,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "beige",
         "NameHash": "CLO_DCT_LEGS_21_0_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8163,7 +9714,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "black",
         "NameHash": "CLO_DCT_LEGS_21_1_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8174,7 +9725,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "bleached_denim",
         "NameHash": "CLO_DCT_LEGS_21_2_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8185,7 +9736,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "brown",
         "NameHash": "CLO_DCT_LEGS_21_3_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8196,7 +9747,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "denim_blue",
         "NameHash": "CLO_DCT_LEGS_21_4_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8207,7 +9758,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "denim_sky_blue",
         "NameHash": "CLO_DCT_LEGS_21_5_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8218,7 +9769,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "distress_denim_blue",
         "NameHash": "CLO_DCT_LEGS_21_6_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8229,7 +9780,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "distress_denim_dark_blue",
         "NameHash": "CLO_DCT_LEGS_21_7_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8240,7 +9791,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "frost_blue",
         "NameHash": "CLO_DCT_LEGS_21_8_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8251,7 +9802,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "green",
         "NameHash": "CLO_DCT_LEGS_21_9_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8262,7 +9813,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "grey",
         "NameHash": "CLO_DCT_LEGS_21_10_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8273,7 +9824,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "khaki",
         "NameHash": "CLO_DCT_LEGS_21_11_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8284,7 +9835,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "light_denim",
         "NameHash": "CLO_DCT_LEGS_21_12_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8295,7 +9846,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "light_grey",
         "NameHash": "CLO_DCT_LEGS_21_13_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8306,7 +9857,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "light_khaki",
         "NameHash": "CLO_DCT_LEGS_21_14_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8317,7 +9868,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "pink",
         "NameHash": "CLO_DCT_LEGS_21_15_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8328,7 +9879,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "rosa",
         "NameHash": "CLO_DCT_LEGS_21_16_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8339,7 +9890,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 020 Alice Overall",
+        "DrawableName": "020 Alice Overall",
         "TextureName": "white",
         "NameHash": "CLO_DCT_LEGS_21_17_F",
         "ComponentType": "PV_COMP_LOWR",
@@ -8347,6 +9898,171 @@
         "DrawableId": 256,
         "TextureId": 17,
         "RelativeCollectionDrawableId": 21,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_LEGS_22_0_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_LEGS_22_1_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "darkblue",
+        "NameHash": "CLO_DCT_LEGS_22_2_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "darkgreen",
+        "NameHash": "CLO_DCT_LEGS_22_3_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "dirtyblack",
+        "NameHash": "CLO_DCT_LEGS_22_4_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "dirtydarkblue",
+        "NameHash": "CLO_DCT_LEGS_22_5_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "dirtygrey",
+        "NameHash": "CLO_DCT_LEGS_22_6_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "dirtylightgrey",
+        "NameHash": "CLO_DCT_LEGS_22_7_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "dirtyteal",
+        "NameHash": "CLO_DCT_LEGS_22_8_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_LEGS_22_9_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "lightblue1",
+        "NameHash": "CLO_DCT_LEGS_22_10_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "lightblue2",
+        "NameHash": "CLO_DCT_LEGS_22_11_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "lightgreen",
+        "NameHash": "CLO_DCT_LEGS_22_12_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "lightpink",
+        "NameHash": "CLO_DCT_LEGS_22_13_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 22,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE Offbeat Jeans",
+        "TextureName": "reddarkgrey",
+        "NameHash": "CLO_DCT_LEGS_22_14_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 257,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 22,
         "IsDummyPlaceholder": false
       },
       {
@@ -10682,7 +12398,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "White",
         "NameHash": "CLO_DCT_SHOES_14_0_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10693,7 +12409,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Beige",
         "NameHash": "CLO_DCT_SHOES_14_1_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10704,7 +12420,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Black",
         "NameHash": "CLO_DCT_SHOES_14_2_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10715,7 +12431,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Brown",
         "NameHash": "CLO_DCT_SHOES_14_3_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10726,7 +12442,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Orange and White",
         "NameHash": "CLO_DCT_SHOES_14_4_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10737,7 +12453,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Yellow",
         "NameHash": "CLO_DCT_SHOES_14_5_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10748,7 +12464,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Red",
         "NameHash": "CLO_DCT_SHOES_14_6_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10759,7 +12475,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Pink",
         "NameHash": "CLO_DCT_SHOES_14_7_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10770,7 +12486,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Rosa",
         "NameHash": "CLO_DCT_SHOES_14_8_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10781,7 +12497,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Purple",
         "NameHash": "CLO_DCT_SHOES_14_9_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10792,7 +12508,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Blue",
         "NameHash": "CLO_DCT_SHOES_14_10_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10803,7 +12519,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "Green",
         "NameHash": "CLO_DCT_SHOES_14_11_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10814,7 +12530,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "White and Purple",
         "NameHash": "CLO_DCT_SHOES_14_12_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10825,7 +12541,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE 008 Short Rain Boots",
+        "DrawableName": "008 Short Rain Boots",
         "TextureName": "White and Black",
         "NameHash": "CLO_DCT_SHOES_14_13_F",
         "ComponentType": "PV_COMP_FEET",
@@ -10833,6 +12549,1183 @@
         "DrawableId": 182,
         "TextureId": 13,
         "RelativeCollectionDrawableId": 14,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_SHOES_15_0_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_SHOES_15_1_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "blush",
+        "NameHash": "CLO_DCT_SHOES_15_2_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_SHOES_15_3_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "darkblue",
+        "NameHash": "CLO_DCT_SHOES_15_4_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "darkgreen",
+        "NameHash": "CLO_DCT_SHOES_15_5_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_SHOES_15_6_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "grey",
+        "NameHash": "CLO_DCT_SHOES_15_7_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_SHOES_15_8_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_SHOES_15_9_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_SHOES_15_10_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_SHOES_15_11_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "teal",
+        "NameHash": "CLO_DCT_SHOES_15_12_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 009 Jordana Sneaker",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_SHOES_15_13_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 183,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 15,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_SHOES_16_0_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_SHOES_16_1_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_SHOES_16_2_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_SHOES_16_3_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "dark blue",
+        "NameHash": "CLO_DCT_SHOES_16_4_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "dark green",
+        "NameHash": "CLO_DCT_SHOES_16_5_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "dark orange",
+        "NameHash": "CLO_DCT_SHOES_16_6_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "dark purple",
+        "NameHash": "CLO_DCT_SHOES_16_7_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "dark red",
+        "NameHash": "CLO_DCT_SHOES_16_8_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "grey",
+        "NameHash": "CLO_DCT_SHOES_16_9_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "light brown",
+        "NameHash": "CLO_DCT_SHOES_16_10_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "light green",
+        "NameHash": "CLO_DCT_SHOES_16_11_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "lilac",
+        "NameHash": "CLO_DCT_SHOES_16_12_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "magenta",
+        "NameHash": "CLO_DCT_SHOES_16_13_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_SHOES_16_14_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "pastel green",
+        "NameHash": "CLO_DCT_SHOES_16_15_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "pastel mint",
+        "NameHash": "CLO_DCT_SHOES_16_16_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "peach",
+        "NameHash": "CLO_DCT_SHOES_16_17_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_SHOES_16_18_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 18,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_SHOES_16_19_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 19,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_SHOES_16_20_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 20,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "rosa",
+        "NameHash": "CLO_DCT_SHOES_16_21_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 21,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_SHOES_16_22_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 22,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "yellow orange",
+        "NameHash": "CLO_DCT_SHOES_16_23_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 23,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 010 Leather Bow Knot Heel Pumps",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_SHOES_16_24_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 184,
+        "TextureId": 24,
+        "RelativeCollectionDrawableId": 16,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_SHOES_17_0_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_SHOES_17_1_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_SHOES_17_2_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_SHOES_17_3_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "dark blue",
+        "NameHash": "CLO_DCT_SHOES_17_4_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "dark green",
+        "NameHash": "CLO_DCT_SHOES_17_5_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "dark orange",
+        "NameHash": "CLO_DCT_SHOES_17_6_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_SHOES_17_7_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "grey",
+        "NameHash": "CLO_DCT_SHOES_17_8_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "light blue",
+        "NameHash": "CLO_DCT_SHOES_17_9_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "lilac",
+        "NameHash": "CLO_DCT_SHOES_17_10_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "magenta",
+        "NameHash": "CLO_DCT_SHOES_17_11_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_SHOES_17_12_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "pastel green",
+        "NameHash": "CLO_DCT_SHOES_17_13_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "pastel orange",
+        "NameHash": "CLO_DCT_SHOES_17_14_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "pastel purple",
+        "NameHash": "CLO_DCT_SHOES_17_15_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "pastel rosa",
+        "NameHash": "CLO_DCT_SHOES_17_16_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "peach",
+        "NameHash": "CLO_DCT_SHOES_17_17_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "peachy pink",
+        "NameHash": "CLO_DCT_SHOES_17_18_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 18,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_SHOES_17_19_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 19,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_SHOES_17_20_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 20,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_SHOES_17_21_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 21,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "rosa",
+        "NameHash": "CLO_DCT_SHOES_17_22_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 22,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_SHOES_17_23_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 23,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 011 Platform Sandals",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_SHOES_17_24_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 185,
+        "TextureId": 24,
+        "RelativeCollectionDrawableId": 17,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_SHOES_18_0_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_SHOES_18_1_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_SHOES_18_2_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_SHOES_18_3_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "cloud blue",
+        "NameHash": "CLO_DCT_SHOES_18_4_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "creme",
+        "NameHash": "CLO_DCT_SHOES_18_5_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "dark pink",
+        "NameHash": "CLO_DCT_SHOES_18_6_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "grey",
+        "NameHash": "CLO_DCT_SHOES_18_7_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "light blue",
+        "NameHash": "CLO_DCT_SHOES_18_8_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "light green",
+        "NameHash": "CLO_DCT_SHOES_18_9_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "light purple",
+        "NameHash": "CLO_DCT_SHOES_18_10_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "mint",
+        "NameHash": "CLO_DCT_SHOES_18_11_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "nude",
+        "NameHash": "CLO_DCT_SHOES_18_12_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_SHOES_18_13_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "pastel green",
+        "NameHash": "CLO_DCT_SHOES_18_14_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "pastel mint",
+        "NameHash": "CLO_DCT_SHOES_18_15_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "pastel rosa",
+        "NameHash": "CLO_DCT_SHOES_18_16_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "peach",
+        "NameHash": "CLO_DCT_SHOES_18_17_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_SHOES_18_18_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 18,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_SHOES_18_19_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 19,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_SHOES_18_20_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 20,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "rosa",
+        "NameHash": "CLO_DCT_SHOES_18_21_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 21,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_SHOES_18_22_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 22,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "yellow orange",
+        "NameHash": "CLO_DCT_SHOES_18_23_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 23,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 012 Heeled Jelly Sandals",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_SHOES_18_24_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 186,
+        "TextureId": 24,
+        "RelativeCollectionDrawableId": 18,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_SHOES_19_0_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_SHOES_19_1_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "rosa",
+        "NameHash": "CLO_DCT_SHOES_19_2_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_SHOES_19_3_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_SHOES_19_4_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "lilac",
+        "NameHash": "CLO_DCT_SHOES_19_5_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_SHOES_19_6_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "light green",
+        "NameHash": "CLO_DCT_SHOES_19_7_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "magenta",
+        "NameHash": "CLO_DCT_SHOES_19_8_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "beige",
+        "NameHash": "CLO_DCT_SHOES_19_9_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "dark yellow",
+        "NameHash": "CLO_DCT_SHOES_19_10_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "mint",
+        "NameHash": "CLO_DCT_SHOES_19_11_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "brown",
+        "NameHash": "CLO_DCT_SHOES_19_12_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_SHOES_19_13_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "light blue",
+        "NameHash": "CLO_DCT_SHOES_19_14_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_SHOES_19_15_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "light purple",
+        "NameHash": "CLO_DCT_SHOES_19_16_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 19,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 013 Thong Sandals with Pearls",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_SHOES_19_17_F",
+        "ComponentType": "PV_COMP_FEET",
+        "ComponentId": 6,
+        "DrawableId": 187,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 19,
         "IsDummyPlaceholder": false
       },
       {
@@ -16688,7 +19581,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "white",
         "NameHash": "CLO_DCT_TOP_29_0_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16699,7 +19592,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "grey",
         "NameHash": "CLO_DCT_TOP_29_1_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16710,7 +19603,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "darkgrey",
         "NameHash": "CLO_DCT_TOP_29_2_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16721,7 +19614,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "black",
         "NameHash": "CLO_DCT_TOP_29_3_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16732,7 +19625,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "creme",
         "NameHash": "CLO_DCT_TOP_29_4_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16743,7 +19636,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "brown",
         "NameHash": "CLO_DCT_TOP_29_5_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16754,7 +19647,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "richred",
         "NameHash": "CLO_DCT_TOP_29_6_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16765,7 +19658,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "brightred",
         "NameHash": "CLO_DCT_TOP_29_7_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16776,7 +19669,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "darkred",
         "NameHash": "CLO_DCT_TOP_29_8_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16787,7 +19680,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "orange",
         "NameHash": "CLO_DCT_TOP_29_9_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16798,7 +19691,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "richyellow",
         "NameHash": "CLO_DCT_TOP_29_10_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16809,7 +19702,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "brightyellow",
         "NameHash": "CLO_DCT_TOP_29_11_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16820,7 +19713,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "rose",
         "NameHash": "CLO_DCT_TOP_29_12_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16831,7 +19724,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "pink",
         "NameHash": "CLO_DCT_TOP_29_13_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16842,7 +19735,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "richpurple",
         "NameHash": "CLO_DCT_TOP_29_14_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16853,7 +19746,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "purple",
         "NameHash": "CLO_DCT_TOP_29_15_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16864,7 +19757,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "brightpurple",
         "NameHash": "CLO_DCT_TOP_29_16_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16875,7 +19768,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "turqoise",
         "NameHash": "CLO_DCT_TOP_29_17_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16886,7 +19779,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "richblue",
         "NameHash": "CLO_DCT_TOP_29_18_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16897,7 +19790,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "brightblue",
         "NameHash": "CLO_DCT_TOP_29_19_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16908,7 +19801,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "richteal",
         "NameHash": "CLO_DCT_TOP_29_20_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16919,7 +19812,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "teal",
         "NameHash": "CLO_DCT_TOP_29_21_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16930,7 +19823,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "lime",
         "NameHash": "CLO_DCT_TOP_29_22_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16941,7 +19834,7 @@
         "IsDummyPlaceholder": false
       },
       {
-        "DrawableName": "PRE Top 024 Happy Set Top",
+        "DrawableName": "Top 024 Happy Set Top",
         "TextureName": "green",
         "NameHash": "CLO_DCT_TOP_29_23_F",
         "ComponentType": "PV_COMP_JBIB",
@@ -16949,6 +19842,424 @@
         "DrawableId": 661,
         "TextureId": 23,
         "RelativeCollectionDrawableId": 29,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_TOP_30_0_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_TOP_30_1_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "brownred",
+        "NameHash": "CLO_DCT_TOP_30_2_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "darkblue",
+        "NameHash": "CLO_DCT_TOP_30_3_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "darkgrey",
+        "NameHash": "CLO_DCT_TOP_30_4_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "darkteal",
+        "NameHash": "CLO_DCT_TOP_30_5_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_TOP_30_6_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "lightgrey",
+        "NameHash": "CLO_DCT_TOP_30_7_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "khaki",
+        "NameHash": "CLO_DCT_TOP_30_8_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_TOP_30_9_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "whitegrey",
+        "NameHash": "CLO_DCT_TOP_30_10_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_TOP_30_11_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_TOP_30_12_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "plum",
+        "NameHash": "CLO_DCT_TOP_30_13_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_TOP_30_14_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_TOP_30_15_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_TOP_30_16_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE J Sport Bra",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_TOP_30_17_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 662,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 30,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "Green",
+        "NameHash": "CLO_DCT_TOP_31_0_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_TOP_31_1_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "Light Blue",
+        "NameHash": "CLO_DCT_TOP_31_2_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "iceblue",
+        "NameHash": "CLO_DCT_TOP_31_3_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_TOP_31_4_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "Orange",
+        "NameHash": "CLO_DCT_TOP_31_5_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_TOP_31_6_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_TOP_31_7_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_TOP_31_8_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_TOP_31_9_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas-themed pattern White",
+        "NameHash": "CLO_DCT_TOP_31_10_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas-themed pattern green",
+        "NameHash": "CLO_DCT_TOP_31_11_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas-themed pattern red",
+        "NameHash": "CLO_DCT_TOP_31_12_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "snowflace ice blue",
+        "NameHash": "CLO_DCT_TOP_31_13_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas red",
+        "NameHash": "CLO_DCT_TOP_31_14_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "x mas rose",
+        "NameHash": "CLO_DCT_TOP_31_15_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "x-mas Yellow",
+        "NameHash": "CLO_DCT_TOP_31_16_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas Green",
+        "NameHash": "CLO_DCT_TOP_31_17_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas blue",
+        "NameHash": "CLO_DCT_TOP_31_18_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 18,
+        "RelativeCollectionDrawableId": 31,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE FR Holidaypullover",
+        "TextureName": "xmas pruple",
+        "NameHash": "CLO_DCT_TOP_31_19_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 663,
+        "TextureId": 19,
+        "RelativeCollectionDrawableId": 31,
         "IsDummyPlaceholder": false
       },
       {
@@ -17202,6 +20513,204 @@
         "DrawableId": 264,
         "TextureId": 0,
         "RelativeCollectionDrawableId": 2,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "black",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_0_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "blue",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_1_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "brownred",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_2_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "darkblue",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_3_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "darkgrey",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_4_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "darkteal",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_5_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "green",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_6_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "lightgrey",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_7_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 7,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "khaki",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_8_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 8,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "lightblue",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_9_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 9,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "whitegrey",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_10_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 10,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "orange",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_11_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 11,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "pink",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_12_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 12,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "plum",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_13_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 13,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "purple",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_14_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 14,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "red",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_15_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 15,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "white",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_16_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 16,
+        "RelativeCollectionDrawableId": 3,
+        "IsDummyPlaceholder": false
+      },
+      {
+        "DrawableName": "PRE 020 Loose Sportjacket Undershirt",
+        "TextureName": "yellow",
+        "NameHash": "CLO_DCT_UNDERSHIRT_3_17_F",
+        "ComponentType": "PV_COMP_ACCS",
+        "ComponentId": 8,
+        "DrawableId": 265,
+        "TextureId": 17,
+        "RelativeCollectionDrawableId": 3,
         "IsDummyPlaceholder": false
       }
     ],

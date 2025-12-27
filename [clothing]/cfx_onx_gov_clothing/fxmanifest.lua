@@ -3,7 +3,7 @@ game 'gta5'
 author 'ONX'
 contributors 'CanisterDog, Momo'
 description 'Government, Police & EMS Clothing'
-version '1.5.0'
+version '1.5.1'
 lua54 'yes'
 
 server_scripts {
