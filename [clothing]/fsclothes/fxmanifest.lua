@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game { 'gta5' }
 author 'ForgeStudios by Plebmasters'
 description 'ForgeStudios Complete Clothingpack'
-version '2.3'
+version '2.5'
 
 files {
   'mp_m_freemode_01_mp_m_fsclothes_shop.meta',

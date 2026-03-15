@@ -711,6 +711,215 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
+        <!-- Accessories: PRE Chain 009 Ware Chain - gold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_8_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: PRE Chain 009 Ware Chain - rosegold -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_8_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: PRE Chain 009 Ware Chain - silver -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_8_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: PRE Chain 009 Ware Chain - black steel -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_8_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - Cafe Nura -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - Burgershot -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - black n blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - light green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Bag: PRE 001 Service Apron - tequilala -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_BAG_0_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_HAND</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
         <!-- Body: Torso Timeless Shirt - torso -->
         <Item>
             <lockHash />
@@ -844,7 +1053,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Hair: 003 Hair - green -->
+        <!-- Hair: Hair 003 - green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -863,7 +1072,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Hair: 003 Hair - blonde -->
+        <!-- Hair: Hair 003 - blonde -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -882,7 +1091,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Hair: 003 Hair - black -->
+        <!-- Hair: Hair 003 - black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -901,7 +1110,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Hair: 003 Hair - white -->
+        <!-- Hair: Hair 003 - white -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2497,7 +2706,7 @@
 			<textureIndex value="21" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - brown -->
+        <!-- Legs: 005 Mil Pants - brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2516,7 +2725,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - camopattern -->
+        <!-- Legs: 005 Mil Pants - camopattern -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2535,7 +2744,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - creme -->
+        <!-- Legs: 005 Mil Pants - creme -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2554,7 +2763,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - darkblue -->
+        <!-- Legs: 005 Mil Pants - darkblue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2573,7 +2782,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - darkgreen -->
+        <!-- Legs: 005 Mil Pants - darkgreen -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2592,7 +2801,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - darkgrey -->
+        <!-- Legs: 005 Mil Pants - darkgrey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2611,7 +2820,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - green -->
+        <!-- Legs: 005 Mil Pants - green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2630,7 +2839,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - grey -->
+        <!-- Legs: 005 Mil Pants - grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2649,7 +2858,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - khaki -->
+        <!-- Legs: 005 Mil Pants - khaki -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2668,7 +2877,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - lightblue -->
+        <!-- Legs: 005 Mil Pants - lightblue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2687,7 +2896,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - lightbrown -->
+        <!-- Legs: 005 Mil Pants - lightbrown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2706,7 +2915,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - lightgreen -->
+        <!-- Legs: 005 Mil Pants - lightgreen -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2725,7 +2934,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 005 Mil Pants - mint -->
+        <!-- Legs: 005 Mil Pants - mint -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2744,7 +2953,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Grey -->
+        <!-- Legs: 006 Tight Jeans with belt - Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2763,7 +2972,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Turqoise -->
+        <!-- Legs: 006 Tight Jeans with belt - Turqoise -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2782,7 +2991,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Olive -->
+        <!-- Legs: 006 Tight Jeans with belt - Olive -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2801,7 +3010,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Brown -->
+        <!-- Legs: 006 Tight Jeans with belt - Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2820,7 +3029,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Black -->
+        <!-- Legs: 006 Tight Jeans with belt - Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2839,7 +3048,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Green -->
+        <!-- Legs: 006 Tight Jeans with belt - Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2858,7 +3067,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Dark Blue -->
+        <!-- Legs: 006 Tight Jeans with belt - Dark Blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2877,7 +3086,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - White -->
+        <!-- Legs: 006 Tight Jeans with belt - White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2896,7 +3105,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Pistacio -->
+        <!-- Legs: 006 Tight Jeans with belt - Pistacio -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2915,7 +3124,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Red -->
+        <!-- Legs: 006 Tight Jeans with belt - Red -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2934,7 +3143,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Pink -->
+        <!-- Legs: 006 Tight Jeans with belt - Pink -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2953,7 +3162,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Ocher -->
+        <!-- Legs: 006 Tight Jeans with belt - Ocher -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2972,7 +3181,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Blue Green -->
+        <!-- Legs: 006 Tight Jeans with belt - Blue Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -2991,7 +3200,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Beige -->
+        <!-- Legs: 006 Tight Jeans with belt - Beige -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3010,7 +3219,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 006 Tight Jeans with belt - Purple -->
+        <!-- Legs: 006 Tight Jeans with belt - Purple -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3029,7 +3238,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants -  beige pattern -->
+        <!-- Legs:  007 Cropped Pants -  beige pattern -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3048,7 +3257,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - bright orange -->
+        <!-- Legs:  007 Cropped Pants - bright orange -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3067,7 +3276,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - mustard yellow -->
+        <!-- Legs:  007 Cropped Pants - mustard yellow -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3086,7 +3295,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - light grey -->
+        <!-- Legs:  007 Cropped Pants - light grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3105,7 +3314,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - sand -->
+        <!-- Legs:  007 Cropped Pants - sand -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3124,7 +3333,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - light peach -->
+        <!-- Legs:  007 Cropped Pants - light peach -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3143,7 +3352,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - stonegrey -->
+        <!-- Legs:  007 Cropped Pants - stonegrey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3162,7 +3371,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - pumpkin -->
+        <!-- Legs:  007 Cropped Pants - pumpkin -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3181,7 +3390,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - solomon -->
+        <!-- Legs:  007 Cropped Pants - solomon -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3200,7 +3409,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - light blue -->
+        <!-- Legs:  007 Cropped Pants - light blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3219,7 +3428,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - lilac -->
+        <!-- Legs:  007 Cropped Pants - lilac -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3238,7 +3447,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - light green -->
+        <!-- Legs:  007 Cropped Pants - light green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3257,7 +3466,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - black -->
+        <!-- Legs:  007 Cropped Pants - black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3276,7 +3485,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - light pink -->
+        <!-- Legs:  007 Cropped Pants - light pink -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3295,7 +3504,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: PRE 007 Cropped Pants - black pattern -->
+        <!-- Legs:  007 Cropped Pants - black pattern -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3312,6 +3521,1507 @@
 			<localDrawableIndex value="6" />
 			<eCompType>PV_COMP_LOWR</eCompType>
 			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black red white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black blue2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black darkred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black magenta -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black mossgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black orange -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - black yellow -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white babyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white beige2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white lavender -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white mint -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_18_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - white rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_19_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="19" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_20_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="20" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: 008 Echo Pants - gray black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_7_21_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="7" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="21" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - chocobrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - cremewhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - fallbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - forestgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - mudbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - sand -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - skyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - velvetred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - washedbeige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - washedblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_16_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="16" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Cord Pants - washedred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_8_17_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="8" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="17" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - darkblack -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - brown2 -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - blueish -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - breezeofpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - cremewhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - fallbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - lightbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - lightgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - velvetred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - washedblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Loose Pants - washedgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_9_15_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="15" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - beige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - darkbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - darkpurple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Cotton Pants Straight fit - darkgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_10_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - grey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - greybeige -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - greybrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - greygreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - greypurple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - lightblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - purple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - redbrown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - skyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Legs: PRE Katsuya Loose Jeans - teal -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_LEGS_11_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_LOWR</eCompType>
+			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Mask: DUMMY - DUMMY -->
@@ -3713,7 +5423,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - black -->
+        <!-- Shoes: 003 Jordana Sneaker - black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3732,7 +5442,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - blue -->
+        <!-- Shoes: 003 Jordana Sneaker - blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3751,7 +5461,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - blush -->
+        <!-- Shoes: 003 Jordana Sneaker - blush -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3770,7 +5480,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - brown -->
+        <!-- Shoes: 003 Jordana Sneaker - brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3789,7 +5499,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - darkblue -->
+        <!-- Shoes: 003 Jordana Sneaker - darkblue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3808,7 +5518,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - darkgreen -->
+        <!-- Shoes: 003 Jordana Sneaker - darkgreen -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3827,7 +5537,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - green -->
+        <!-- Shoes: 003 Jordana Sneaker - green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3846,7 +5556,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - grey -->
+        <!-- Shoes: 003 Jordana Sneaker - grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3865,7 +5575,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - orange -->
+        <!-- Shoes: 003 Jordana Sneaker - orange -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3884,7 +5594,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - pink -->
+        <!-- Shoes: 003 Jordana Sneaker - pink -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3903,7 +5613,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - purple -->
+        <!-- Shoes: 003 Jordana Sneaker - purple -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3922,7 +5632,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - red -->
+        <!-- Shoes: 003 Jordana Sneaker - red -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3941,7 +5651,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - teal -->
+        <!-- Shoes: 003 Jordana Sneaker - teal -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3960,7 +5670,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE 003 Jordana Sneaker - yellow -->
+        <!-- Shoes: 003 Jordana Sneaker - yellow -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3979,7 +5689,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Hazelnut -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Hazelnut -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3998,7 +5708,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Tan -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Tan -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4017,7 +5727,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Golden Yellow -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Golden Yellow -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4036,7 +5746,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Blue -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4055,7 +5765,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Reddish Brown -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Reddish Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4074,7 +5784,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Purple -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Purple -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4093,7 +5803,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Bronze -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Bronze -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4112,7 +5822,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Almond -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Almond -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4131,7 +5841,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Leatherboots with white Soles - Green -->
+        <!-- Shoes: 004 Leatherboots with white Soles - Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4150,7 +5860,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - White -->
+        <!-- Shoes: 005 Chukka Boots - White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4169,7 +5879,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Pumpkin -->
+        <!-- Shoes: 005 Chukka Boots - Pumpkin -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4188,7 +5898,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Brown -->
+        <!-- Shoes: 005 Chukka Boots - Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4207,7 +5917,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Ochre -->
+        <!-- Shoes: 005 Chukka Boots - Ochre -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4226,7 +5936,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Purple -->
+        <!-- Shoes: 005 Chukka Boots - Purple -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4245,7 +5955,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Amber -->
+        <!-- Shoes: 005 Chukka Boots - Amber -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4264,7 +5974,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Grey -->
+        <!-- Shoes: 005 Chukka Boots - Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4283,7 +5993,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Green -->
+        <!-- Shoes: 005 Chukka Boots - Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4302,7 +6012,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Black -->
+        <!-- Shoes: 005 Chukka Boots - Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4321,7 +6031,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chukka Boots - Blue -->
+        <!-- Shoes: 005 Chukka Boots - Blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4340,7 +6050,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Amber -->
+        <!-- Shoes: 006 Monkstraps - Amber -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4359,7 +6069,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Blue -->
+        <!-- Shoes: 006 Monkstraps - Blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4378,7 +6088,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Pumpkin -->
+        <!-- Shoes: 006 Monkstraps - Pumpkin -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4397,7 +6107,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Magenta -->
+        <!-- Shoes: 006 Monkstraps - Magenta -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4416,7 +6126,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - White -->
+        <!-- Shoes: 006 Monkstraps - White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4435,7 +6145,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Red -->
+        <!-- Shoes: 006 Monkstraps - Red -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4454,7 +6164,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Green -->
+        <!-- Shoes: 006 Monkstraps - Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4473,7 +6183,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Black -->
+        <!-- Shoes: 006 Monkstraps - Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4492,7 +6202,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Brown -->
+        <!-- Shoes: 006 Monkstraps - Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4511,7 +6221,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Monkstraps - Mauve -->
+        <!-- Shoes: 006 Monkstraps - Mauve -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4530,7 +6240,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Ochre -->
+        <!-- Shoes: 007 Chelsea Boots  - Ochre -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4549,7 +6259,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Grey -->
+        <!-- Shoes: 007 Chelsea Boots  - Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4568,7 +6278,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Black -->
+        <!-- Shoes: 007 Chelsea Boots  - Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4587,7 +6297,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Blue -->
+        <!-- Shoes: 007 Chelsea Boots  - Blue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4606,7 +6316,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Green -->
+        <!-- Shoes: 007 Chelsea Boots  - Green -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4625,7 +6335,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - light Brown -->
+        <!-- Shoes: 007 Chelsea Boots  - light Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4644,7 +6354,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Pumpkin -->
+        <!-- Shoes: 007 Chelsea Boots  - Pumpkin -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4663,7 +6373,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Beige -->
+        <!-- Shoes: 007 Chelsea Boots  - Beige -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -4682,7 +6392,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Shoes: PRE Chelsea Boots  - Brown -->
+        <!-- Shoes: 007 Chelsea Boots  - Brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6848,7 +8558,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Green/Black -->
+        <!-- Top: 007 Pufferwest with Shirt - Green/Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6867,7 +8577,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Green/Grey -->
+        <!-- Top: 007 Pufferwest with Shirt - Green/Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6886,7 +8596,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Green/White -->
+        <!-- Top: 007 Pufferwest with Shirt - Green/White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6905,7 +8615,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Red/White -->
+        <!-- Top: 007 Pufferwest with Shirt - Red/White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6924,7 +8634,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Red/Black -->
+        <!-- Top: 007 Pufferwest with Shirt - Red/Black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6943,7 +8653,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Red -->
+        <!-- Top: 007 Pufferwest with Shirt - Red -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6962,7 +8672,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Grey -->
+        <!-- Top: 007 Pufferwest with Shirt - Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6981,7 +8691,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Grey/white -->
+        <!-- Top: 007 Pufferwest with Shirt - Grey/white -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7000,7 +8710,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Blue/White -->
+        <!-- Top: 007 Pufferwest with Shirt - Blue/White -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7019,7 +8729,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 007 Pufferwest with Shirt - Blue/Grey -->
+        <!-- Top: 007 Pufferwest with Shirt - Blue/Grey -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7038,7 +8748,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - black -->
+        <!-- Top: 008 Timeless Coat w/ physics - black -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7057,7 +8767,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - darkblack -->
+        <!-- Top: 008 Timeless Coat w/ physics - darkblack -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7076,7 +8786,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - babyblue -->
+        <!-- Top: 008 Timeless Coat w/ physics - babyblue -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7095,7 +8805,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - beige -->
+        <!-- Top: 008 Timeless Coat w/ physics - beige -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7114,7 +8824,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - blackwhite -->
+        <!-- Top: 008 Timeless Coat w/ physics - blackwhite -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7133,7 +8843,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - bronce -->
+        <!-- Top: 008 Timeless Coat w/ physics - bronce -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7152,7 +8862,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - brown -->
+        <!-- Top: 008 Timeless Coat w/ physics - brown -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7171,7 +8881,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - cremewhite -->
+        <!-- Top: 008 Timeless Coat w/ physics - cremewhite -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7190,7 +8900,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - darkgreen -->
+        <!-- Top: 008 Timeless Coat w/ physics - darkgreen -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7209,7 +8919,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - gray -->
+        <!-- Top: 008 Timeless Coat w/ physics - gray -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7228,7 +8938,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - offwhite -->
+        <!-- Top: 008 Timeless Coat w/ physics - offwhite -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7247,7 +8957,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - pink -->
+        <!-- Top: 008 Timeless Coat w/ physics - pink -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7266,7 +8976,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - rosered -->
+        <!-- Top: 008 Timeless Coat w/ physics - rosered -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7285,7 +8995,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: PRE 008 Timeless Coat w/ physics - yellow -->
+        <!-- Top: 008 Timeless Coat w/ physics - yellow -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7302,6 +9012,690 @@
 			<localDrawableIndex value="8" />
 			<eCompType>PV_COMP_JBIB</eCompType>
 			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Grey/Blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Petrol/Green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Beige/green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Ochre/Red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Orange/Blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Blue/Grey -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: 009 Pullunder - Red/Blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_9_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="9" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - black striped -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - blueriffle -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - dark green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - gray black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - lightgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - mudgreen -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - red black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - red -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - skyblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - white brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Sweater w/ collar - xmas -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_10_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="10" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - black -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - weathered leather -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - brown -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - dark green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - darkblue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_4_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - darkgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_5_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - darkpurple -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_6_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - darkred -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_7_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_8_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - light cremewhite -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_9_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - lightgray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_10_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - touch of blue -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_11_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - touch of green -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_12_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - touch of lightpink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_13_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Top: PRE Seung Winter Jacket - touch of pink -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_TOP_11_14_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="11" />
+			<eCompType>PV_COMP_JBIB</eCompType>
+			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
 	</pedComponents>
@@ -8333,6 +10727,90 @@
 			<localPropIndex value="5" />
 			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
 			<textureIndex value="18" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: PRE Earring 006 iFruit Pro Max - Space Gray -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_6_0_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="6" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: PRE Earring 006 iFruit Pro Max - white -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_6_1_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="6" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: PRE Earring 006 iFruit Pro Max - mint -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_6_2_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="6" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- PropEars: PRE Earring 006 iFruit Pro Max - rose -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_PROPEARS_6_3_M</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <forcedProps />
+            <variantComponents />
+            <variantProps />
+			<propIndex value="0" />
+			<localPropIndex value="6" />
+			<eAnchorPoint>ANCHOR_EARS</eAnchorPoint>
+			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- PropEyes: Glasses 001 Retro Ovals (Nose) - gold -->
